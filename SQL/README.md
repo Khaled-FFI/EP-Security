@@ -1,4 +1,4 @@
-    ```markdown
+
 # SQL Injection
 
 ## Définition
